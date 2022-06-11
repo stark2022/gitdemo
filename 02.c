@@ -4,13 +4,13 @@
  * @Author: wyzf
  * @Date: 2022-06-10 16:12:01
  * @LastEditors: wyzf
- * @LastEditTime: 2022-06-11 13:59:44
+ * @LastEditTime: 2022-06-11 14:03:48
  */
 #include <stdio.h>
 
 int main()
 {
-    /* 我的第一个 C 程序 */
+    /* github 绗竴涓猚绋嬪簭*/
     printf("Hello, World! \n");
     printf("Hello, World! \n");
     printf("Hello, World! \n");
